@@ -20,6 +20,11 @@
   text-decoration: none;
 }
 
+.blm {
+  color: #fff;
+  background-color: black;
+}
+
 /*
  * Dummy devices (replace them with your own or something else entirely!)
  */
