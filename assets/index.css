@@ -2,7 +2,7 @@
   max-width: 960px;
 }
 
-.blm {
+.racial-justice {
   color: white;
   background-color: black;
 }
@@ -10,41 +10,6 @@
 img {
   max-width: 100%;
   height: auto;
-}
-
-/*
- * Dummy devices (replace them with your own or something else entirely!)
- */
-
-.icons {
-  position: absolute;
-  right: 10%;
-  bottom: -30%;
-}
-
-.icons::before {
-  position: absolute;
-  top: 10%;
-  right: 10px;
-  bottom: 10%;
-  left: 10px;
-}
-
-.icons-2 {
-  top: -25%;
-  right: auto;
-  bottom: 0;
-  left: 5%;
-}
-
-.astronaut {
-  -webkit-transform: rotate(30deg);
-  transform: rotate(30deg);
-}
-
-.shuttle {
-  -webkit-transform: rotate(-15deg);
-  transform: rotate(-15deg);
 }
 
 /*
