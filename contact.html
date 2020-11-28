@@ -5,10 +5,30 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">        
         <!-- CSS -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-        <link rel="stylesheet" href="./assets/style.css" />
+        <!-- FontAwesome -->
+        <link rel="stylesheet" href="./assets/fontawesome.min.css">
+        <script src="https://use.fontawesome.com/387846772e.js"></script>
+        <!-- Custom styles for this template -->
+        <link rel="stylesheet" href="./assets/contact.css">
         <!-- jQuery and JS bundle w/ Popper.js -->
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+        <style>
+          .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+          }
+    
+          @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+              font-size: 3.5rem;
+            }
+          }
+        </style>
     </head>
     <body>
         <header>
@@ -34,8 +54,56 @@
                 </div>
               </nav>
         </header>
-        <main>
-
+        <main class="color-gradient">
+          <div class="contact-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+            <h1 class="display-4 font-weight-normal">Contact</h1>
+            <p class="lead">Feel free to reach out and connect with me!</p>
+            <p>
+              <a href = "mailto:p.brelinsky@gmail.com?subject = Feedback&body = Message" class="btn btn-outline-light">
+                Email
+                </a>
+            </p>
+          </div>
+          
+          <div class="container">
+            <div class="card-deck mb-3 text-center">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <h4 class="my-0 font-weight-normal">GitHub</h4>
+                </div>
+                <div class="card-body">
+                  <h1 class="card-title pricing-card-title">Discover</h1>
+                  <p>Check out my personal repository for all of my latest projects.<br><br></p>
+                  <a class="btn btn-block btn-social btn-github" href="https://github.com/piersky1">
+                    <span class="fa fa-github"></span> piersky1
+                  </a>
+                </div>
+              </div>
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <h4 class="my-0 font-weight-normal">LinkedIn</h4>
+                </div>
+                <div class="card-body">
+                  <h1 class="card-title pricing-card-title">Connect</h1>
+                  <p>Join my professional network and collaborate with me.<br><br></p>
+                  <a class="btn btn-block btn-social btn-linkedin" href="https://www.linkedin.com/in/pwbrelinsky/">
+                    <span class="fa fa-linkedin"></span> Pierce Brelinsky
+                  </a>
+                </div>
+              </div>
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <h4 class="my-0 font-weight-normal">Twitter</h4>
+                </div>
+                <div class="card-body">
+                  <h1 class="card-title pricing-card-title">Explore</h1>
+                  <p>Follow me on Twitter for all of my hot takes on web dev and SEO.<br><br></p>
+                  <a class="btn btn-block btn-social btn-twitter" href="https://twitter.com/GoFishPierce">
+                    <span class="fa fa-twitter"></span> @GoFishPierce
+                  </a>
+                </div>
+              </div>
+            </div>
         </main>
         <footer class="container py-5">
           <div class="row">
