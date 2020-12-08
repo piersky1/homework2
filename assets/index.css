@@ -2,11 +2,19 @@
   max-width: 960px;
 }
 
+/*
+ * For Racial Justice Jumbotron
+ */
+
 .racial-justice {
   color: white;
   background-color: black;
   margin: 0 !important;
 }
+
+/*
+ * For Color Gradient Jumbotron
+ */
 
 .color-gradient {
   color: white;
