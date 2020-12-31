@@ -20,9 +20,9 @@ Also, on the homepage I linked to IBM's Call for Code for Racial Justice. As an 
 
 Note, I purposefully did not include canonical links or meta descriptions as this project is only a design concept, for educational use only. I tagged it as "noindex" to avoid being included in search engine result pages.
 
-Refer to [https://github.com/piersky1/homework2/commits/main](https://github.com/piersky1/homework2/commits/main) for a log of all commits.
+Refer to [https://github.com/piersky1/responsive-portfolio/commits/main](https://github.com/piersky1/responsive-portfolio/commits/main) for a log of all commits.
 
-This project was deployed using GitHub Pages and can be found here: [https://piersky1.github.io/homework2/](https://piersky1.github.io/homework2/)
+This project was deployed using GitHub Pages and can be found here: [https://piersky1.github.io/responsive-portfolio/](https://piersky1.github.io/responsive-portfolio/)
 
 
 ## Table of Contents
@@ -42,7 +42,7 @@ There are several options to "install" this project yourself:
 
 * Download the files and open the index.html on your local machine.
 
-* Simply view the live application on the web at: [https://piersky1.github.io/homework2/](https://piersky1.github.io/homework2/)
+* Simply view the live application on the web at: [https://piersky1.github.io/responsive-portfolio/](https://piersky1.github.io/responsive-portfolio/)
 
 
 ## Usage 
@@ -61,7 +61,7 @@ References:
 
 MIT License
 
-Copyright (c) [2020] [Pierce Brelinsky]
+Copyright (c) 2020 Pierce Brelinsky
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
